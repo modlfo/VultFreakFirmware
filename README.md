@@ -31,3 +31,7 @@ Routing of the inputs A and B is mapped to channels Left and Right corresponding
 - [ ] Adding more routing options for A and B inputs.
 - [ ] Adding calibration menu to define the actual positions of the knobs and input voltages.
 - [ ] Add dual filter mode.
+
+# License
+
+The Freak firmware is property of Leonardo Laguna Ruiz. All rights reserved. Owners of a Vult Freak Hardware module are granted a license to run it in their Vult Freak Hardware. Any other use is not allowed by this license.
