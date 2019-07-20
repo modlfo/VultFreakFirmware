@@ -3,6 +3,9 @@ Release notes for the Vult Freak Filter
 
 ![Vult Freak Filter](VultFreak.png "Vult Freak Filter")
 
+# Release v1.0
+- [x] Saving the current filter configuration and restore it after boot.
+
 # Release v0.1
 
 This version includes the following filter models:
@@ -24,7 +27,7 @@ Routing of the inputs A and B is mapped to channels Left and Right corresponding
 
 # Future Features
 
-- [ ] Saving the current filter configuration and restore it after boot.
+
 - [ ] Adding more routing options for A and B inputs.
 - [ ] Adding calibration menu to define the actual positions of the knobs and input voltages.
 - [ ] Add dual filter mode.
