@@ -35,3 +35,8 @@ Routing of the inputs A and B is mapped to channels Left and Right corresponding
 # License
 
 The Freak firmware is property of Leonardo Laguna Ruiz. All rights reserved. Owners of a Vult Freak Hardware module are granted a license to run it in their Vult Freak Hardware. Any other use is not allowed by this license.
+
+This project uses the following third-party sources:
+
+- The Freak Bootloader is a modified version the bootloader code, Copyright 2014 Emilie Gillet released under MIT license.
+- Lua VM is included, Copyright 1994–2019 Lua.org, PUC-Rio released under MIT license.
