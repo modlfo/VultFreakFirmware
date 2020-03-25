@@ -3,6 +3,15 @@ Release notes for the Vult Freak Filter
 
 ![Vult Freak Filter](VultFreak.png "Vult Freak Filter")
 
+# Release v2.1
+- Adds Disjoint filter
+- Adds Nopskate octaver
+
+# Release v2.0
+ - [x] Add dual filter mode.
+ - Adds Debriatus distortion
+ - Adds Boomstick filter
+
 # Release v1.0
 - [x] Saving the current filter configuration and restore it after boot.
 
@@ -30,7 +39,7 @@ Routing of the inputs A and B is mapped to channels Left and Right corresponding
 
 - [ ] Adding more routing options for A and B inputs.
 - [ ] Adding calibration menu to define the actual positions of the knobs and input voltages.
-- [ ] Add dual filter mode.
+
 
 # License
 
