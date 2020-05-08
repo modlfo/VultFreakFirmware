@@ -3,6 +3,11 @@ Release notes for the Vult Freak Filter
 
 ![Vult Freak Filter](VultFreak.png "Vult Freak Filter")
 
+# Release v2.2
+- Fixes instabilities in Tangents-XX
+- Fixes slowdown of the module that occurs in some edge cases
+- Improves the Notch mode of Ferox
+
 # Release v2.1
 - Adds Disjoint filter
 - Adds Nopskate octaver
