@@ -1,7 +1,11 @@
-# VultFreakFirmware
+# Vult Freak Firmware
 Release notes for the Vult Freak Filter
 
 ![Vult Freak Filter](VultFreak.png "Vult Freak Filter")
+
+# Release v2.3
+- Adds two distortion models of Flame
+- Adds extra modes to Disjoint (96dB)
 
 # Release v2.2
 - Fixes instabilities in Tangents-XX
