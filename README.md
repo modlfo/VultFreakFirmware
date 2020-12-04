@@ -3,6 +3,24 @@ Release notes for the Vult Freak Filter
 
 ![Vult Freak Filter](VultFreak.png "Vult Freak Filter")
 
+# Release v2.5
+- Models: Adds Boomstick HP
+- Models: Adds Nurage-VCA (LPG + VCA) mode with variable vactrol “decay”
+- Models: Adds vactrols with different “decay” for Nurage
+- Models: Adds Phonok, a vowel resonator
+- Avoids pops when changing filters and models
+- Makes easier to press both buttons
+- Implements long press to go one filter back
+- Many optimisations to avoid hanging the module
+- Settings are previewed while changing them
+- Setting: modulation input ranges
+- Setting: audio output levels
+- Setting: stereo modulations
+- Setting: output mix
+
+# Release v2.4
+- Adds builtin VCAs
+
 # Release v2.3
 - Adds two distortion models of Flame
 - Adds extra modes to Disjoint (96dB)
