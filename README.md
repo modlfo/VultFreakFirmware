@@ -3,6 +3,15 @@ Release notes for the Vult Freak Filter
 
 ![Vult Freak Filter](VultFreak.png "Vult Freak Filter")
 
+# Release v3.0
+- Adds Duplex mode
+- Adds Nitrous
+- Adds Wolv
+- Allows to mix all the modulation signals with the SUMMED mode
+- Reduces the noise by turning off the HP filter of the CODEC
+- Integrates a screensaver based on the Wolfram cellular automata
+- Many internal improvements and fixes
+
 # Release v2.5
 - Models: Adds Boomstick HP
 - Models: Adds Nurage-VCA (LPG + VCA) mode with variable vactrol “decay”
