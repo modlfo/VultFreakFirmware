@@ -2,6 +2,8 @@
 Release notes for the Vult Freak Filter
 
 ![Vult Freak Filter](VultFreak.png "Vult Freak Filter")
+# Release v3.1
+- Fixes screen initialization problem
 
 # Release v3.0
 - Adds Duplex mode
